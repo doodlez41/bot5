@@ -1,0 +1,2 @@
+kz.proffix4.telegrambot.MyTelegramBot
+kz.proffix4.telegrambot.TSN_TELEGRAM_BOT
